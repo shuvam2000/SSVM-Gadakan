@@ -1,0 +1,1 @@
+The SSVM School Management System is a basic project designed to manage student and teacher records. It includes simple features like student registration, attendance tracking, and basic report generation. The system helps in organizing school data in a structured way.
